@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 <br>
 **- I'm interested in artificial intelligence, machine learning, and software architecture and design 🤖**
 <br>
-**- I will be graduating on June 2022 🎓**
+**- I graduated on June 2022 🎓**
